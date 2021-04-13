@@ -1,4 +1,4 @@
-# massmutualfrontend
+# VueJS Front End EmailClient that connects with NodeJS API backend in order to send emails
 
 ## Project setup
 ```
