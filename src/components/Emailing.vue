@@ -1,7 +1,7 @@
 <template>
 <div>
  <div id="emailing">
-  <h1>MassMutual Coding Sample</h1>
+  <h1>Coding Sample</h1>
   <br>
   <p>Please ensure you have the NodeJS emailing API setup locally</p>
   <br>
